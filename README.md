@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Kaito.
 <div style="height: 100vh;">
-- 🌱 I’m currently learning JavaScript, Python and Flutter.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Would code for a cup of coffee.
+- 🌱 I’m currently learning JavaScript, Python and Flutter. <br>
+- 😄 Pronouns: He/Him<br>
+- ⚡ Fun fact: Would code for a cup of coffee.<br>
 
 <!--
 **SneakyKaito/SneakyKaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
