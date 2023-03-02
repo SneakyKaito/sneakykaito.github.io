@@ -1,6 +1,5 @@
-<div style="height: 100vh;">
 ### Hi there 👋, I'm Kaito.
-
+<div style="height: 100vh;">
 - 🌱 I’m currently learning JavaScript, Python and Flutter.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Would code for a cup of coffee.
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+
 ### Stats
 <div style="height: 100vh;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SneakyKaito&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en&layout=compact" alt="SneakyKaito" /></p>
